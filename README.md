@@ -60,7 +60,6 @@
 | **OutfitGC** | POS e inventario para zapater&iacute;a, en producci&oacute;n. Captura masiva desde Excel, ventas en apartado y despliegue en Railway. | React &middot; Electron &middot; Node.js &middot; Express &middot; PostgreSQL |
 | **KaraokeIA** | Plataforma web que convierte audio en videos de karaoke usando IA (transcripci&oacute;n y separaci&oacute;n de pistas). | React &middot; TypeScript &middot; Node.js &middot; Whisper &middot; Spleeter &middot; FFmpeg |
 
-> Enlaza cada proyecto a su repositorio cuando lo subas (reemplaza por los links reales).
 
 ## GitHub
 
